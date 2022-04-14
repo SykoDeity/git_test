@@ -1,1 +1,1 @@
-This is text is included to serve as practice with using Git. 
+This text is included to serve as practice with using Git. 
